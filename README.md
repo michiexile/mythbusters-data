@@ -4,4 +4,4 @@ While the Mythbusters get a lot of things right in a scientific approach on thei
 
 This repository harvests data sets from the Mythbusters show with the intent to use the data collected in statistics education. The ambition is to gather as raw data as possible.
 
-Repository is organized as [Season]/[Episode]/datasetname.csv with comma-separated values.
+Repository is organized as [Season]/[Episode]/[datasetname].csv with comma-separated values.
